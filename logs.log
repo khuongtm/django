@@ -1,0 +1,14 @@
+WARNING:root:280
+INFO:django.utils.autoreload:D:\demo\FPT\app\middleware.py changed, reloading.
+WARNING:root:0.2700023651123047
+WARNING:root:0.034996986389160156
+WARNING:django.request:Method Not Allowed: /api/token/refresh/
+WARNING:root:0.004999637603759766
+WARNING:django.request:Method Not Allowed: /api/token/refresh/
+WARNING:root:0.0060422420501708984
+WARNING:root:0.23199820518493652
+WARNING:root:0.0049974918365478516
+WARNING:root:0.0009996891021728516
+WARNING:root:0.0009992122650146484
+WARNING:root:0.0009989738464355469
+INFO:django.utils.autoreload:D:\demo\FPT\app\middleware.py changed, reloading.
